@@ -1,2 +1,3 @@
 Builds a secure CI/CD pipeline on Google Cloud
 # handle the edge case from the last release
+# drop an unused branch
