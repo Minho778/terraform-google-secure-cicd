@@ -42,3 +42,4 @@ Notes and usage details for terraform-google-secure-cicd.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
